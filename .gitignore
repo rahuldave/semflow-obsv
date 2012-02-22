@@ -1,0 +1,11 @@
+*.pyc
+*~
+*.ts
+store
+store/*
+teststore
+teststore/*
+*.out.*
+*.out
+*.log
+
